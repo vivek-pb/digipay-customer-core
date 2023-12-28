@@ -53,6 +53,7 @@ class DioFactory {
         baseUrl: ApiEnvironment.Dev.endpoint,
         headers: {
           HttpHeaders.authorizationHeader: _authorization,
+          "CompanyID": "7753ad6bd8cf48f5b1312fd21eb36588"
         },
         connectTimeout: Config.timeout,
         receiveTimeout: Config.timeout,
