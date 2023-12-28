@@ -9,7 +9,7 @@ class APIRepo {
         method: HttpMethod.post,
         params: {
           "dial_code": "+91",
-          "phone_number": "9856756",
+          "phone_number": "84596565",
           "user_type": 2,
           "device_id": "123"
         },
